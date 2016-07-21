@@ -1,5 +1,6 @@
 # Windows_Service_Check
 Lists stopped windows services across your infrastructure
+
 (because open the service mmc snap-in on all of your Servers really sucks)
      
 # Windows-Service Check Script                                             
